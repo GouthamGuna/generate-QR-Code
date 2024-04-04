@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class GenerateQrCodeApplication {
 
     public static void main(String[] args) {
+        System.setProperty("server.servlet.context-path", "/QR_Generate");
         SpringApplication.run( GenerateQrCodeApplication.class, args );
     }
 
