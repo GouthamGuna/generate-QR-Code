@@ -1,4 +1,4 @@
-package in.dev.gmsk.model;
+package in.dev.ggs.model;
 
 public class DecodedQrResponse {
     private String qrString;

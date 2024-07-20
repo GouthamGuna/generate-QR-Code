@@ -1,4 +1,4 @@
-package in.dev.gmsk.service;
+package in.dev.ggs.service;
 
 import com.google.zxing.*;
 import com.google.zxing.client.j2se.BufferedImageLuminanceSource;

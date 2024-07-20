@@ -1,4 +1,4 @@
-package in.dev.gmsk.model;
+package in.dev.ggs.model;
 
 import org.springframework.web.multipart.MultipartFile;
 

@@ -1,4 +1,4 @@
-package in.dev.gmsk;
+package in.dev.ggs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,8 +1,8 @@
-package in.dev.gmsk.controller;
+package in.dev.ggs.controller;
 
-import in.dev.gmsk.model.DecodedQrResponse;
-import in.dev.gmsk.model.GenerateQrRequest;
-import in.dev.gmsk.service.QrCodeService;
+import in.dev.ggs.model.DecodedQrResponse;
+import in.dev.ggs.model.GenerateQrRequest;
+import in.dev.ggs.service.QrCodeService;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
